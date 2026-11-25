@@ -1,5 +1,6 @@
 # privacy
 
-This repository hosts the public privacy policy for the iOS app 「记住了」.
+This repository hosts the public legal pages for the iOS app 「记住了」.
 
-https://lizilin01.github.io/privacy/
+- 隐私政策：https://lizilin01.github.io/privacy/
+- 服务条款：https://lizilin01.github.io/privacy/terms/
